@@ -1266,3 +1266,11 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+@media (min-width: 768px) {
+  .col-md-6 {
+      max-width: 100%;
+  }
+}
+
+
